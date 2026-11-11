@@ -1,0 +1,5 @@
+{
+  "_comment": "PLACEHOLDER numbers. Set budgets from your real OpenRouter model prices and the margin you want (see docs/PRICING.md).",
+  "free": {"monthly_budget_usd": 0.15, "model": "openai/gpt-4o-mini", "max_tokens": 700, "price_per_million": {"input": 0.15, "output": 0.60}},
+  "pro":  {"monthly_budget_usd": 3.00, "model": "openai/gpt-4o-mini", "max_tokens": 900, "price_per_million": {"input": 0.15, "output": 0.60}}
+}
